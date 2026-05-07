@@ -1,4 +1,4 @@
-# IMDB-SQL-Project
+# IMDB: Movie Analysis
 By Alifia Ganjaraharja
 
 ## Project Overview :
